@@ -10,6 +10,24 @@
 // git status 可以查看当前文件所处的状态（红色文件名表示未跟踪）
 // git status -s 以更精简的形式展示当前文件状态
 // git add file（文件名称） 追踪文件
+// git commit -m ‘todo’ 提交更新 一下提交所有文件 描述信息一定要写
+// ctrl+c 错误还原
+
+// 对文件的撤销操作  git checkout 文件名
+
+// 取消暂存文件 git reset HEAD 文件名 ；git reset  HEAD .
+
+// 跳过git add 直接提交修改的文件 git commit -a -m "描述信息" （相当于把git add/git commit合并）
+
+// q（quit） 退出 
+
+// git reset --hard commitID/提交id：可以回退到指定版本
+
+
+
+
+
+
 
 
 
