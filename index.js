@@ -23,7 +23,9 @@
 
 // git reset --hard commitID/提交id：可以回退到指定版本
 
-
+// 重点
+// 初始化仓库 ：git init 
+// 添加文件到暂存区：git add
 
 
 
